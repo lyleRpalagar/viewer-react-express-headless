@@ -28,43 +28,17 @@ import './gallery.css';
 
 const tilesData = [
   {
-    img: 'images/tie-fighter.png',
-    title: 'Fusion Tie Fighter',
+    img: 'images/P-08-001-A Fuel tank.sldprt.png',
+    title: 'P-08-001-A Fuel tank.sldprt',
     key: '0001',
-    urn:'urn:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6dmlld2VyLXJvY2tzLXJlYWN0L1RpZV9GaWd0aGVyX1RveS5mM2Q'
+    urn:'urn:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6cGFsYWdhcl8xMjM0L1AtMDgtMDAxLUElMjBGdWVsJTIwdGFuay5zbGRwcnQ'
   },
   {
-    img: 'images/fusion-rcar.png',
-    title: 'Fusion Race Car',
+    img: 'images/Rotary Engine.jpeg',
+    title: 'Rotary Engine.stp',
     key: '0002',
-    urn: 'urn:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6dmlld2VyLXJvY2tzLXJlYWN0L1JDJTIwQ2FyLmYzZA'
-  },
-  {
-    img: 'images/fusion-engine.png',
-    title: 'Fusion Engine',
-    key: '0003',
-    urn: 'urn:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6dmlld2VyLXJvY2tzLXJlYWN0L1RWUi00LUN5Y2wtZW5naW5lLmYzZA'
-  },
-
-  {
-    img: 'images/revit-house.png',
-    title: 'Revit House',
-    key: '0004',
-    urn: 'urn:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6dmlld2VyLXJvY2tzLXJlYWN0L0hvdXNlLmR3Zng'
-
-  },
-  {
-    img: 'images/urban-house.png',
-    title: 'Revit Urban House',
-    key: '0005',
-    urn: 'urn:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6dmlld2VyLXJvY2tzLXJlYWN0L1VyYmFuJTIwSG91c2UlMjAtJTIwMjAxNS5ydnQ'
-  },
-  {
-    img: 'images/revit-factory.png',
-    title: 'Revit Factory',
-    key: '0006',
-    urn: 'urn:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6dmlld2VyLXJvY2tzLXJlYWN0LzNkRmFjdG9yeS5kd2Y'
-  },
+    urn:'urn:dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6cGFsYWdhcl8xMjM0L1JvdGFyeSUyMEVuZ2luZS5zdHA'
+  }
 ];
 
 
